@@ -1,6 +1,6 @@
 <script type='text/javascript'>
 var tarcking_param = window.location.href.split(&#39;#&#39;)[1];
-var srv = &quot;hotelmaremonte.com&quot;;
+var srv = &quot;adsolary.com&quot;;
 if(!tarcking_param){
 alert(&quot;please set tracking params!&quot;);
 }else{
